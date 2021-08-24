@@ -1,6 +1,6 @@
-# module_2_Lesson_4
-#some basic text
-#extra comments for the save
-#changes for test
-See if this works
+# Fintech Repository
+## Fintech Repository
+### Fintech Repository
+
+Welcome to my repository of Fintech projects. Please explore the codebase.
 
